@@ -38,6 +38,20 @@ https://colab.research.google.com/drive/1aUuEbLNQlG8hDfm5UQuRooUq6_gyfHVK?usp=sh
 !find -name "*bt2_pe.bam" | xargs -P 3 deduplicate_bismark  --bam  --paired
 ```
 
+### d)
+
+
+
 ### e)
+
+Если выстроить гистограммы в ряд, то получим сходство со статейными данными. Наблюдаем спад, затем подъем, затем снова спад и затем подъем.
+
+|Полученный результат|Научные результаты|
+|--------------------|------------------|
+|![Картинка](https://github.com/basedinside/hse_hw1_meth/blob/main/Data/Screenshots/histplot.png)|![image](https://user-images.githubusercontent.com/71254839/154860541-0b8128b4-b541-460c-9448-7ca93abff6fc.png)|
+
+### f)
+
+Визуализация совместных треков. Файл конфигурации есть в [репозитории](https://github.com/basedinside/hse_hw1_meth/blob/main/src/tracks.ini.txt).
 
 ![Картинка](https://github.com/basedinside/hse_hw1_meth/blob/main/Data/Screenshots/combined.png)
