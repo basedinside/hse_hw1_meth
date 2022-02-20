@@ -1,0 +1,44 @@
+[8Cell-coverage]
+file = /content/drive/MyDrive/Homework_meth/Cell8/cell8_coverage.bigWig
+height = 2
+max_value = 160
+title = 8cell_coverage
+file_type=bigwig
+
+[8Cell-methylation]
+file = /content/drive/MyDrive/Homework_meth/Cell8/cell8_methylation.bigWig
+height = 2
+max_value = 105
+title = 8cell_methylation
+file_type=bigwig
+color = blue
+
+[icm-coverage]
+file = /content/drive/MyDrive/Homework_meth/ICM/icm_coverage.bigWig
+height = 2
+max_value = 160
+title = icm_coverage
+file_type=bigwig
+
+[icm-methylation]
+file = /content/drive/MyDrive/Homework_meth/ICM/icm_methylation.bigWig
+height = 2
+max_value = 105
+title = icm_methylation
+file_type=bigwig
+color = blue
+
+[epiblast_coverage]
+file = /content/drive/MyDrive/Homework_meth/epiblast/epiblast_coverage.bigWig
+height = 2
+max_value = 160
+title = epiblast_coverage
+file_type=bigwig
+
+[epiblast_methylation]
+file = /content/drive/MyDrive/Homework_meth/epiblast/epiblast_methylation.bigWig
+height = 2
+max_value = 105
+title = epiblast_methylation
+file_type=bigwig
+color = blue
