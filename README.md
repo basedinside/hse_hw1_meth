@@ -26,11 +26,11 @@ https://colab.research.google.com/drive/1aUuEbLNQlG8hDfm5UQuRooUq6_gyfHVK?usp=sh
 
 ### a)
 
-|          | 11347700-11367700 | 40185800-40195800 |
-| -------- | ----------------- | ----------------- |
-| 8 Cell   | 1090              | 464               |
-| icm      | 1456              | 630               |
-| Epiblast | 2328              | 1062              | 
+|          | 11347700-11367700 | 40185800-40195800 | Duplicated |
+| -------- | ----------------- | ----------------- | ---------- |
+| 8Cell    | 1090              | 464               | 18.3%      |
+| ICM      | 1456              | 630               | 9.08%      |
+| Epiblast | 2328              | 1062              | 2.92%      |
 
 ### b)
 
@@ -40,7 +40,14 @@ https://colab.research.google.com/drive/1aUuEbLNQlG8hDfm5UQuRooUq6_gyfHVK?usp=sh
 
 ### d)
 
+| [Отчет 8Cell](https://github.com/basedinside/hse_hw1_meth/blob/main/Data/HTML%20Reports/8-cell-bismark_report.html) | [ICM](https://github.com/basedinside/hse_hw1_meth/blob/main/Data/HTML%20Reports/icm-bismark_report.html)       | [Epiblast](https://github.com/basedinside/hse_hw1_meth/blob/main/Data/HTML%20Reports/epiblast-bismark_report.html) |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+|  ![image](https://user-images.githubusercontent.com/71254839/154861306-111445cf-cee3-4284-b5d3-3756880b594e.png)    | ![image](https://user-images.githubusercontent.com/71254839/154861357-93864bc2-d2fa-4dc1-a56e-25069f974a1f.png)| ![image](https://user-images.githubusercontent.com/71254839/154861392-7d2033bb-162f-4f21-81eb-d402d40105c2.png)    |                                                                                                                                                                                                                      |                                                                                                                    |
+|  ![image](https://user-images.githubusercontent.com/71254839/154861328-d9409402-055d-4f4d-8cda-d5c06f52038b.png)    | ![image](https://user-images.githubusercontent.com/71254839/154861377-52646932-ac3d-4365-be6f-f4678cf3c913.png)| ![image](https://user-images.githubusercontent.com/71254839/154861397-313c510e-0ad8-4605-98f9-94fb9ba484ce.png)    |                                                                                                                                                                                                                      |                                                                                                                    |
 
+Данные на графиках совпадают с выводами полученными в статье (например, высокий уровень метилирования на стадии epiblast). В остальном, данные по цепям в рамках одного образца +- схожи. 
+
+Также стоит отметить небольшие различия с данными из задания. Так, например, на максимальный уровень метилирования на 10% ниже ожидаемого (90%), а минимальное значение ниже ожидаемого (25%) на 5%.
 
 ### e)
 
